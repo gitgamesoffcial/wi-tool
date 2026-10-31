@@ -40,5 +40,5 @@ Big shout-out to Ben and the GameVox community for building GameVox! This projec
 ---
 
 ## Credits & Authorship
-- Jetty (Anvnamnet) — Core Creator & Script Developer
-- Ben & The GameVox Community — Inspiration & Support
+- Jetty (Anvnamnet) — Core Creator & Script Developer. | STATUS: RETIRED
+- Ben & The GameVox Community — Inspiration & Support  | STATUS: ONLINE
