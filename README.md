@@ -1,5 +1,5 @@
 # wi-tools
-
+![Online](https://api.gamevox.com/api/public/widget/65c11531-9ede-4b4c-8534-31527d6cc82c.svg)
 A powerful, pure shell-based network manager for Windows, Linux, and macOS. This tool combines automated ping monitoring, smart connection adapter resets, and express DNS management into lightweight, zero-dependency scripts.
 
 ---
