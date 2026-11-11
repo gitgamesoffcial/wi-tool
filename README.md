@@ -21,7 +21,7 @@ My Server: ![Online](https://api.gamevox.com/api/public/widget/65c11531-9ede-4b4
 ## How to Use
 
 ### For Windows
-1. Download tool-windows.bat.
+1. Download wi-tool-windows.bat.
 2. Right-click the file and select Run as Administrator.
 3. Select your utility from the interactive console menu.
 
@@ -29,11 +29,11 @@ My Server: ![Online](https://api.gamevox.com/api/public/widget/65c11531-9ede-4b4
 1. Download tool-linux-mac.sh.
 2. Open your terminal, navigate to your download folder, and grant execution rights:
    ```bash
-   chmod +x tool-linux-mac.sh
+   chmod +x wi-tool-linux-mac.sh
    ```
 3. Run the script with root permissions:
    ```bash
-   sudo ./tool-linux-mac.sh
+   sudo ./wi-tool-linux-mac.sh
    ```
 
 ---
